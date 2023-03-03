@@ -35,7 +35,7 @@ export default defineNuxtConfig({
               property: 'og:url',
               content: 'https://silvesterwali.netlify.app'
             },
-            { property: 'og:image', content: '/banner.png' },
+            { property: 'og:image', content: '/thumbnail.png' },
             { property: 'og:description', content: 'I am a web developer with 3 years of experience, specializing in Nuxt, Vue, and JavaScript. I am skilled in working with teams and collaborating on projects.'},
             {
               property: 'og:site_name',
