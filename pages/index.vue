@@ -192,6 +192,20 @@
               <a href="https://pre-test-front-end.vercel.app/" target="_blank" class=" rounded-md px-4 py-2 text-base bg-indigo-600 border-0 hover:ring-2 hover:ring-indigo-500 text-white hover:shadow-md hover:shadow-indigo-300">Visit</a>
             </div>
           </div>
+          <div class=" hover:shadow-lg hover:shadow-slate-400 md:p-2 rounded-md h-full col-span-1">
+            <div>
+              <img src="/dummy-project.png" class="h-52 w-full object-cover" alt="pizza">
+            </div>
+            <div class="py-2">
+              <h3 class="font-medium text-xl">Example fetch dummy API</h3>
+            </div>
+            <div class="text-slate-400 text-base py-2">
+              Fetch API from https://dummyjson.com/. this is build on top of nuxt and tailwindcss
+            </div>
+            <div class="py-2">
+              <a href="https://dummy-nuxt-3.vercel.app/" target="_blank" class=" rounded-md px-4 py-2 text-base bg-indigo-600 border-0 hover:ring-2 hover:ring-indigo-500 text-white hover:shadow-md hover:shadow-indigo-300">Visit</a>
+            </div>
+          </div>
         </div>
         </section>
         <section class="py-16 space-y-8">
@@ -299,6 +313,7 @@
                 <a href="https://www.apollographql.com/tutorials/certifications/92439adb-5f84-419e-b3e8-c82ae1c1f063" target="_blank" class=" rounded-md px-4 py-2 text-base bg-indigo-600 border-0 hover:ring-2 hover:ring-indigo-500 text-white hover:shadow-md hover:shadow-indigo-300">Visit</a>
               </div>
             </div>
+            
           </div>
         </div>
         </section>
