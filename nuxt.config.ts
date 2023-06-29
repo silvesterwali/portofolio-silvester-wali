@@ -53,5 +53,9 @@ export default defineNuxtConfig({
           link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
         }
       },
-    modules: ['@nuxtjs/tailwindcss'],
+    modules: ['@nuxtjs/tailwindcss','nuxt-gtag'],
+    gtag:{
+      id:"GTM-TP5DVRR",
+     
+    }
 })
